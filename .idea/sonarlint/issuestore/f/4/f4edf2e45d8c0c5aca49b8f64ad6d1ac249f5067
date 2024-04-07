@@ -1,0 +1,14 @@
+
+z
+java:S1488-"]Immediately return this expression instead of assigning it to the temporary variable "title".(ì˜ÃÖ8ìİ¥Øé1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–á‹Ãşÿÿÿÿ8öÅÎ×é1
+m	java:S116"QRename this field "PIMBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¢Õû8şÅÎ×é1
+q	java:S116"PRename this field "FName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ª‡¨ùÿÿÿÿ8şÅÎ×é1
+q	java:S116"PRename this field "LName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğß™êşÿÿÿÿ8şÅÎ×é1
+q	java:S116"PRename this field "EmpId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑëÑ™ÿÿÿÿÿ8şÅÎ×é1
+y	java:S116""XRename this field "EmpIDToSearch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÓÄ¡ıÿÿÿÿ8şÅÎ×é1
+o	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼î‘îüÿÿÿÿ8ƒÆÎ×é1
+N
+java:S1172A",Remove this unused method parameter "empID".(“Ù˜™üÿÿÿÿ8„ÆÎ×é1
+`
+java:S1128"CRemove this unused import 'org.openqa.selenium.JavascriptExecutor'.(Ë‚«»8ê«Ô×é1

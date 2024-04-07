@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-07T00:53:59 IST" name="OrangeHRM" finished-at="2024-04-07T00:55:11 IST" duration-ms="71854">
+    <groups>
+    </groups>
+    <test started-at="2024-04-07T00:53:59 IST" name="OrangeHRM" finished-at="2024-04-07T00:55:11 IST" duration-ms="71854">
+      <class name="FunctionalTests.LoginTest">
+        <test-method signature="LoginToApp()[pri:0, instance:FunctionalTests.LoginTest@625732]" started-at="2024-04-07T00:53:59 IST" name="LoginToApp" finished-at="2024-04-07T00:54:07 IST" duration-ms="8359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApp -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:FunctionalTests.LoginTest@625732]" started-at="2024-04-07T00:54:07 IST" name="closeDriver" finished-at="2024-04-07T00:54:07 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- FunctionalTests.LoginTest -->
+      <class name="FunctionalTests.AdminManageTest">
+        <test-method is-config="true" signature="Login()[pri:0, instance:FunctionalTests.AdminManageTest@66498326]" started-at="2024-04-07T00:54:35 IST" name="Login" finished-at="2024-04-07T00:54:42 IST" duration-ms="6914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="manageAdminUser()[pri:0, instance:FunctionalTests.AdminManageTest@66498326]" started-at="2024-04-07T00:54:42 IST" name="manageAdminUser" finished-at="2024-04-07T00:55:11 IST" duration-ms="28746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manageAdminUser -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:FunctionalTests.AdminManageTest@66498326]" started-at="2024-04-07T00:55:11 IST" name="closeDriver" finished-at="2024-04-07T00:55:11 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- FunctionalTests.AdminManageTest -->
+      <class name="FunctionalTests.PIMManageTest">
+        <test-method is-config="true" signature="Login()[pri:0, instance:FunctionalTests.PIMManageTest@51dcb805]" started-at="2024-04-07T00:54:07 IST" name="Login" finished-at="2024-04-07T00:54:14 IST" duration-ms="6756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="manageEmp()[pri:0, instance:FunctionalTests.PIMManageTest@51dcb805]" started-at="2024-04-07T00:54:14 IST" name="manageEmp" finished-at="2024-04-07T00:54:35 IST" duration-ms="20664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manageEmp -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:FunctionalTests.PIMManageTest@51dcb805]" started-at="2024-04-07T00:54:35 IST" name="closeDriver" finished-at="2024-04-07T00:54:35 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- FunctionalTests.PIMManageTest -->
+    </test> <!-- OrangeHRM -->
+  </suite> <!-- OrangeHRM -->
+</testng-results>

@@ -1,0 +1,19 @@
+
+l	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ö´78§ä×é1
+r	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä ­—ıÿÿÿÿ8§ä×é1
+r	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÎ™øÿÿÿÿ8§ä×é1
+
+java:S1488%"]Immediately return this expression instead of assigning it to the temporary variable "title".(¡¦ä‘ûÿÿÿÿ8Ø´¦Øé1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–á‹Ãşÿÿÿÿ8§ä×é1
+t	java:S116"SRename this field "AdminBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÂÅ…úÿÿÿÿ8™§ä×é1
+m	java:S116"QRename this field "AddBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ÷”¨8™§ä×é1
+s	java:S116"RRename this field "EmpName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥µÃüÿÿÿÿ8™§ä×é1
+n	java:S116"SRename this field "UserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ô¿38™§ä×é1
+n	java:S116"RRename this field "SaveBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¯Ò‡8™§ä×é1
+z	java:S116"YRename this field "UserNameSearch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìï­«şÿÿÿÿ8™§ä×é1
+y	java:S116"XRename this field "EmpNameSearch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶â±«úÿÿÿÿ8™§ä×é1
+p	java:S116!"TRename this field "SearchBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…§×í8™§ä×é1
+£
+java:S1186Q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Öéïşÿÿÿÿ8™§ä×é1
+]
+java:S1128"@Remove this unused import 'org.openqa.selenium.support.FindAll'.(ÑÀ¥Ó8Îˆæ×é1

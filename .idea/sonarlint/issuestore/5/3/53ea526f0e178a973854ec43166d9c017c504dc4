@@ -1,0 +1,23 @@
+
+v
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÍ˜8©•»¤ë1
+
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Ô¶ÙÍıÿÿÿÿ8Á•»¤ë1
+ƒ
+java:S1319,"aThe type of "data" should be an interface such as "Map" rather than the implementation "HashMap".(É‰ãùÿÿÿÿ8Ä•»¤ë1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–á‹Ãşÿÿÿÿ8ä•»¤ë1
+l
+java:S2259!"JA "NullPointerException" could be thrown; "usernametext" is nullable here.(»Ûñûøÿÿÿÿ8·š»¤ë1
+g
+java:S2259#"JA "NullPointerException" could be thrown; "passwordtext" is nullable here.(¾Åã8µš»¤ë1
+t	java:S116"SRename this field "CredText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï§¿óÿÿÿÿÿ8Ãš»¤ë1
+n	java:S116"SRename this field "UserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ô¿38Äš»¤ë1
+o	java:S116"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ô€Ö8Æš»¤ë1
+w	java:S116"VRename this field "LoginButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÃÚŞıÿÿÿÿ8Èš»¤ë1
+G
+java:S2387"*"driver" is the name of a field in "Base".(æ¹•‹8Ìš»¤ë1
+p
+java:S1845"TRename field "UserName" to prevent any misunderstanding/clash with field "username".(“ô¿38áš»¤ë1
+q
+java:S1845"TRename field "Password" to prevent any misunderstanding/clash with field "password".(½ô€Ö8äš»¤ë1
+L	java:S106%"+Replace this use of System.out by a logger.(ÛÆÄÁøÿÿÿÿ8† »¤ë1

@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OrangeHRM" parallel="false" thread-count="2">
+    <listeners>
+        <listener class-name="listeners.Listeners"></listener>
+    </listeners>
+    <parameter name="browser" value="chrome"/>
+
+    <test name="OrangeHRM">
+        <classes>
+            <class name="FunctionalTests.LoginTest"></class>
+            <class name="FunctionalTests.PIMManageTest"></class>
+            <class name="FunctionalTests.AdminManageTest"></class>
+
+
+        </classes>
+    </test>
+
+</suite>
